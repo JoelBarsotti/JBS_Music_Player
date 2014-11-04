@@ -47,3 +47,6 @@ c:\users\joel barsotti\documents\visual studio 2013\Projects\PlayerDemo\PlayerDe
 c:\users\joel barsotti\documents\visual studio 2013\Projects\PlayerDemo\PlayerDemo\obj\Debug\Views\AlbumControl.g.cs
 c:\users\joel barsotti\documents\visual studio 2013\Projects\PlayerDemo\PlayerDemo\obj\Debug\Views\SongsControl.baml
 c:\users\joel barsotti\documents\visual studio 2013\Projects\PlayerDemo\PlayerDemo\obj\Debug\Views\SongsControl.g.cs
+C:\Users\Joel Barsotti\Documents\GitHub\JBS_Music_Player\PlayerDemo\bin\Debug\PlayerDemo.exe.config
+C:\Users\Joel Barsotti\Documents\GitHub\JBS_Music_Player\PlayerDemo\obj\Debug\PlayerDemo.exe
+C:\Users\Joel Barsotti\Documents\GitHub\JBS_Music_Player\PlayerDemo\obj\Debug\PlayerDemo.pdb
